@@ -1,2 +1,2 @@
 # Inventory
-Creating an Inventory Project
+Creating an Inventory 
